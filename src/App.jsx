@@ -17,10 +17,7 @@ function App() {
     <>
     <button onClick={add} >count is {count}</button>
 
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
+  
     <button onClick={remove}>remove</button>
     
     </>
